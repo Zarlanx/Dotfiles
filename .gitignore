@@ -6,3 +6,11 @@
 # prevent accidental dumps
 history/**
 secrets/**
+
+# Neovim caches
+home/.local/share/nvim/
+home/.local/state/nvim/
+home/.cache/nvim/
+
+# Hyprland & Waybar runtime files
+home/.config/waybar/backup-waybar/
