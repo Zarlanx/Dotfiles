@@ -1,0 +1,8 @@
+# Safety defaults
+*.swp
+*.swo
+*.DS_Store
+*~
+# prevent accidental dumps
+history/**
+secrets/**
